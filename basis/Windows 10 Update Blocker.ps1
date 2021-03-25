@@ -1,4 +1,4 @@
-﻿<# Setting execution policy into Bypass for this PSSession only (local machine is not be affected) #>
+<# Setting execution policy into Bypass for this PSSession only (local machine is not be affected) #>
 Set-ExecutionPolicy -Force Bypass -Scope Process
 
 <# Setting registry values to stop windows update #>
