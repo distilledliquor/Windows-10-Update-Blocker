@@ -1,5 +1,7 @@
 # Windows-10-Update-Blocker
 
+![windows10updateblocker](https://user-images.githubusercontent.com/54929046/112466358-21bdac00-8da9-11eb-8598-a4d60dadc681.png)
+
 Windows 10의 자동 업데이트를 중지합니다.
 
 관리자 권한으로 실행하지 않아도 정상 작동합니다.
