@@ -1,4 +1,4 @@
-# Stop-Windows-10-Update
+# Windows-10-Update-Blocker
 
 Windows 10의 자동 업데이트를 중지합니다.
 
